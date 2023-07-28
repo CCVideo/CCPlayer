@@ -39,4 +39,12 @@ android {
 
 dependencies {
     embed 'com.bokecc:hdplayer:1.1.0_lite'
+    embed 'com.bokecc:basemodule:1.0.1'
+    embed 'com.bokecc.module:likemodule:1.2.2'
+    embed 'com.bokecc.module:giftmodule:1.2.2'
+    embed 'com.bokecc.module:votemodule:1.2.2'
+    embed 'com.bokecc.module:redpacketmodule:1.2.2'
+    embed 'com.bokecc.module:questionnairemodule:1.2.2-20230728.082647-2'
+    embed 'com.bokecc.module:invitationcardmodule:1.2.2'
+    embed 'com.bokecc.module:commercemodule:1.2.2'
 }
